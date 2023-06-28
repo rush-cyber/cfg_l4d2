@@ -18,5 +18,5 @@
 	"setting.aspectratiomode"		"1"
 	"setting.fullscreen"		"1"
 	"setting.nowindowborder"		"0"
-"setting.mat_tonemapping_occlusion_use_stencil" "1"
+    "setting.mat_tonemapping_occlusion_use_stencil" "1"
 	}
